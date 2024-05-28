@@ -112,5 +112,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any inquiries, please contact [yourname](mailto:youremail@example.com).
+For any inquiries, please contact [Ryan](mailto:kmetzrm@gmail.com).
 
