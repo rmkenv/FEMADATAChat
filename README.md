@@ -7,7 +7,9 @@ This project fetches and analyzes FEMA NFIP Claims data based on a given ZIP cod
 - Fetch FEMA NFIP Claims data using FEMA API.
 - Analyze and display data in a tabular format.
 - Perform calculations and generate insights using Langchain tools.
-- Hide sensitive API keys using environment variables.
+
+## Google API Key 
+You will need to use your own API key, from (https://makersuite.google.com/)
 
 ## Installation
 
