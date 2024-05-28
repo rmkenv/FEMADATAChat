@@ -16,7 +16,8 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-# Set your own API key
+#use your own API key, from (https://makersuite.google.com/), remember to use VPN if you are not in US
+#put your key inside the apostrophe....
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 # Setup model
